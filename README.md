@@ -3,6 +3,9 @@
 
 
 
+
+
+
 <!DOCTYPE html>
 <html>
 <title>W3.CSS Template</title>
@@ -188,10 +191,6 @@ p {line-height: 2}
 
 </body>
 </html>
-
-
-
-
 
 
 
